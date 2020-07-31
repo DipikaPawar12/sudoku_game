@@ -18,7 +18,7 @@ data structures based java application
 ## Introduction and Features
 ---
  Sudoku is a puzzle that has enjoyed worldwide popularity. So here our team come up with a 9x9 sudoku game.<br />
- Key Features: <br />
+ <b>Key Features:</b> <br />
  The players can 
  - Choose to play a new game
  - Load a saved game
