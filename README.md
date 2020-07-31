@@ -1,4 +1,4 @@
-# sudoku_game
+# Sudoku Game
 data structures based java application
 
 ---
@@ -8,16 +8,23 @@ data structures based java application
 
 <h1>Table of Content</h1>
 
-- [Introduction](#introduction)
+- [Introduction and Features](#introduction-and-features)
 - [Technology Stack](#technology-stack)
 - [Running](#running)
 - [Contributors](#contributors)
 
 
 
-## Introduction
+## Introduction and Features
 ---
-The player can choose to play a new game, load a saved game and viewing the scoreboard 
+ Sudoku is a puzzle that has enjoyed worldwide popularity. So here our team come with a 9x9 sudoku game.
+ Key Features:
+ The players can 
+ - Choose to play a new game
+ - Load a saved game
+ - Viewing the scoreboard 
+ - Get hint(number wise) in case they are stuck 
+ - Pause the game (To stop the timmer)
 
 
 
